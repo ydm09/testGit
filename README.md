@@ -1,6 +1,3 @@
 # testGit
 
-测试Git
-  
-  
-  测试Git
+用于测试Git
